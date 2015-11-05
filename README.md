@@ -15,7 +15,7 @@
 aliyun-developers-efficiency@list.alibaba-inc.com
 
 ###系统要求:
-
+  
 阿里云命令行工具需要系统安装python:
 
     * 支持2.6.5 及以上版本
